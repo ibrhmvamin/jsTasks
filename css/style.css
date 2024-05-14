@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  gap: 30px;
+}
